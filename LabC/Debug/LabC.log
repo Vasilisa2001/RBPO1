@@ -1,0 +1,18 @@
+﻿  CompareString.c
+C:\Users\HP\OneDrive\Рабочий стол\3 КУРС\РБПО\LabC\LabC\CompareString.c(5,15): warning C4013: strlen: нет определения; предполагается "extern" с возвратом типа "int"
+  CreatePerson.c
+C:\Users\HP\OneDrive\Рабочий стол\3 КУРС\РБПО\LabC\LabC\CreatePerson.c(5,33): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\HP\OneDrive\Рабочий стол\3 КУРС\РБПО\LabC\LabC\CreatePerson.c(5,55): warning C4013: strlen: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\HP\OneDrive\Рабочий стол\3 КУРС\РБПО\LabC\LabC\CreatePerson.c(6,11): warning C4013: strcpy: нет определения; предполагается "extern" с возвратом типа "int"
+  GetPerson.c
+C:\Users\HP\OneDrive\Рабочий стол\3 КУРС\РБПО\LabC\LabC\GetPersons.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\HP\OneDrive\Рабочий стол\3 КУРС\РБПО\LabC\LabC\GetPerson.c(7,26): warning C4013: CompareString: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\HP\OneDrive\Рабочий стол\3 КУРС\РБПО\LabC\LabC\GetPerson.c(12,32): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\HP\OneDrive\Рабочий стол\3 КУРС\РБПО\LabC\LabC\GetPerson.c(26,78): warning C4013: strlen: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\HP\OneDrive\Рабочий стол\3 КУРС\РБПО\LabC\LabC\GetPerson.c(27,27): warning C4013: strcpy: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\HP\OneDrive\Рабочий стол\3 КУРС\РБПО\LabC\LabC\GetPerson.c(38,35): warning C4013: atoi: нет определения; предполагается "extern" с возвратом типа "int"
+  LabC.c
+C:\Users\HP\OneDrive\Рабочий стол\3 КУРС\РБПО\LabC\LabC\GetPersons.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Sort.c
+  Создание кода...
+  LabC.vcxproj -> C:\Users\HP\OneDrive\Рабочий стол\3 КУРС\РБПО\LabC\Debug\LabC.exe
